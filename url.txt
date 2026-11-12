@@ -1,0 +1,5 @@
+# Tautan Deployment Streamlit Cloud
+# Silakan tempelkan tautan URL dashboard Anda setelah melakukan deployment di share.streamlit.io di bawah ini:
+# Contoh:
+# https://beijing-air-quality-dashboard.streamlit.app/
+
